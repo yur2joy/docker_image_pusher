@@ -1,2 +1,2 @@
 jc21/nginx-proxy-manager:latest
---platform=aarch64
+--platform=aarch64 jc21/nginx-proxy-manager
