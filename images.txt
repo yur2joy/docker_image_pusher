@@ -1,2 +1,2 @@
-xhofe/alist:3.41.0
---platform=x86_64 xhofe/alist:3.41.0
+xhofe/alist:latest
+--platform=x86_64 xhofe/alist:latest
