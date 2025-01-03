@@ -1,2 +1,2 @@
-jc21/nginx-proxy-manager:latest
---platform=aarch64 jc21/nginx-proxy-manager
+xhofe/alist:3.41.0
+--platform=x86_64 xhofe/alist:3.41.0
