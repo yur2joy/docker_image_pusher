@@ -1,2 +1,2 @@
-xhofe/alist:latest
---platform=x86_64 xhofe/alist:latest
+gdy666/lucky
+--platform=aarch64 gdy666/lucky
