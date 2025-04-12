@@ -1,2 +1,2 @@
-6053537/portainer-ce:zh-cn
---platform=x86_64 6053537/portainer-ce:zh-cn
+6053537/portainer
+--platform=amd64 6053537/portainer
